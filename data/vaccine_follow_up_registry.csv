@@ -1,0 +1,13 @@
+record_id,person_code,age_band,dose_name,vaccine_group,due_date,administered_date,status,reminder_status,preferred_language,care_setting,follow_up_contact_available,high_priority_flag,notes
+VF001,P001,Child,Primary Dose A,Demo Group,2026-06-15,,missed,pending,English,Community Clinic,yes,no,Synthetic demonstration record
+VF002,P002,Adolescent,Follow-up Dose B,Demo Group,2026-08-05,,delayed,pending,Marathi,School Health,yes,no,Synthetic demonstration record
+VF003,P003,Adult,Booster C,Demo Group,2026-07-20,2026-07-20,completed,completed,Hindi,Primary Care,yes,no,Synthetic demonstration record
+VF004,P004,Older Adult,Follow-up Dose D,Demo Group,2026-08-10,,due,pending,English,Community Clinic,no,yes,Synthetic demonstration record
+VF005,P005,Child,Follow-up Dose E,Demo Group,2026-05-30,,missed,pending,Marathi,Community Clinic,no,yes,Synthetic demonstration record
+VF006,P006,Adult,Booster F,Demo Group,2026-08-12,,pending,reminded,Hindi,Primary Care,yes,no,Synthetic demonstration record
+VF007,P007,Adolescent,Follow-up Dose G,Demo Group,2026-08-01,,delayed,contacted,English,School Health,yes,no,Synthetic demonstration record
+VF008,P008,Adult,Booster H,Demo Group,2026-07-05,2026-07-08,completed,completed,Marathi,Primary Care,yes,no,Synthetic demonstration record
+VF009,P009,Child,Primary Dose I,Demo Group,2026-08-15,,due,pending,Hindi,Community Clinic,no,no,Synthetic demonstration record
+VF010,P010,Older Adult,Follow-up Dose J,Demo Group,2026-06-25,,missed,pending,English,Primary Care,yes,yes,Synthetic demonstration record
+VF011,P011,Adult,Booster K,Demo Group,2026-08-18,,pending,pending,Marathi,Community Clinic,yes,no,Synthetic demonstration record
+VF012,P012,Adolescent,Follow-up Dose L,Demo Group,2026-07-28,,delayed,pending,Hindi,School Health,no,no,Synthetic demonstration record

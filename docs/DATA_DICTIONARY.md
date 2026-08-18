@@ -1,0 +1,3 @@
+# Data Dictionary
+
+`record_id`: anonymous record ID. `person_code`: non-identifying person code. `age_band`: broad age band. `dose_name`: local dose/task label. `vaccine_group`: dataset-owner label. `due_date`: locally supplied planned/due date. `administered_date`: completion date if recorded. `status`: local workflow status. `reminder_status`: follow-up workflow state. `preferred_language`: communication language. `care_setting`: local setting. `follow_up_contact_available`: operational contact availability. `high_priority_flag`: local priority flag. `notes`: non-identifying operational note.
